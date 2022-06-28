@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\chatService\\Client\\Client.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\chatService\\Client\\Client.csproj": {
+    "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\chatService\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\hp\\Desktop\\chatService\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\chatService\\Client\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

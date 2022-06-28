@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "djWV/Ge4znfTlODUdZJFxc/8rl4/P2QyvpflYXrDNUjueUfY82RfIqqzvmcxGwj+derB3gzLXzC+nFm9nTI7sw==",
+  "dgSpecHash": "VqVBPAJaBoH2wXnAloK8ag40eWCZ0q23ZD+MmluYENVIe7mPl/bn6HD2sHPz/IIWX7x0OS2vDZ+bqrhBVDE7GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\chatService\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\chatService\\chatService\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
